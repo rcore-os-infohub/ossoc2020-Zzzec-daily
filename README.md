@@ -1,1 +1,5 @@
-# OS-Summer-of-Code
+## 学习笔记
+  1. day one（7.4）
+    * 今天开始学习！
+  2. day two (7.5)
+  ...
